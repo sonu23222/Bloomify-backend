@@ -23,7 +23,7 @@ body {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 25px;
-    color: #6f9b3c;
+    color: rgba(97, 177, 51, 0.8);
     text-transform: uppercase;
     text-align: center;
 }
